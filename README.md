@@ -38,8 +38,8 @@
 
 
 * 테스트 단계
-   - 통합 테스트 : Stress 툴 활용 
-   - 성능 테스트 : Selenium 활용
+   - 통합 테스트 : Selenium 활용
+   - 성능 테스트 : Stress 툴 활용 
     
 - 배포 단계 
    - Docker : Docker Hub 연동
