@@ -19,11 +19,15 @@
 
 * 개발 단계 
  - 개발도구 : 
-    - 설치 방법 : JDK , 환경변수 
-    - 인코딩 설정 방법
-    - 코드 컨벤션 적용 및  CheckStyle 활용 
-    - 유용한 플러그인 설치 방법
-
+    - [설치 방법 : JDK , 환경변수 , 인코딩 설정](https://cubenuri.tistory.com/133)    
+    - [유용한 플러그인](https://cubenuri.tistory.com/134)
+      - exerd
+      - CheckStyle
+      - spotbugs
+      - pmd
+      - mybatipse 
+      - Lombok
+                     
  - 협업도구 : 
    - Gitlab : git , 이슈, 디플로이  
    - Nexus : 공용 아키타입, 라이브러리  관리 
