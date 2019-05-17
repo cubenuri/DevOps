@@ -19,8 +19,8 @@
 
 * 개발 단계 
  - 개발도구 : 
-    - [설치 방법 : JDK , 환경변수 , 인코딩 설정](https://cubenuri.tistory.com/133)    
-    - [유용한 플러그인](https://cubenuri.tistory.com/134)
+    - [설치 방법 : JDK , 환경변수 , 인코딩 설정](https://cubenuri.tistory.com/133){: target="_blank" }    
+    - [유용한 플러그인](https://cubenuri.tistory.com/134){: target="_blank" }
       - exerd
       - CheckStyle
       - spotbugs
@@ -29,8 +29,8 @@
       - Lombok
                      
  - 협업도구 : 
-   - [Gitlab](https://cubenuri.tistory.com/265) : git , 이슈, 디플로이  
-   - Nexus : 공용 아키타입, 라이브러리  관리 
+   - [Gitlab](https://cubenuri.tistory.com/265){: target="_blank" } : git , 이슈, 디플로이  
+   - [Nexus](https://cubenuri.tistory.com/281){: target="_blank" } : 공용 아키타입, 라이브러리  관리 
    - Mylyn : 태스트 관리 도구, gitlab 과의 연동 고민중 
    - Gerrit : 코드 리뷰 시스템 
     
