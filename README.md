@@ -29,8 +29,11 @@
       - Lombok
                      
  - 협업도구 : 
-   - [Gitlab](https://cubenuri.tistory.com/265){: target="_blank" } : git , 이슈, 디플로이  
-   - [Nexus](https://cubenuri.tistory.com/281){: target="_blank" } : 공용 아키타입, 라이브러리  관리 
+   - ['Gitlab'](https://cubenuri.tistory.com/265){:target="_blank" } : git , 이슈, 디플로이  
+   - <a href="https://cubenuri.tistory.com/281" target="_blank">nexus</a> : 공용 아키타입, 라이브러리  관리 
+   
+   
+   
    - Mylyn : 태스트 관리 도구, gitlab 과의 연동 고민중 
    - Gerrit : 코드 리뷰 시스템 
     
