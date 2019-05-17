@@ -29,7 +29,7 @@
       - Lombok
                      
  - 협업도구 : 
-   - Gitlab : git , 이슈, 디플로이  
+   - [Gitlab](https://cubenuri.tistory.com/265) : git , 이슈, 디플로이  
    - Nexus : 공용 아키타입, 라이브러리  관리 
    - Mylyn : 태스트 관리 도구, gitlab 과의 연동 고민중 
    - Gerrit : 코드 리뷰 시스템 
