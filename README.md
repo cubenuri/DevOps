@@ -31,7 +31,7 @@
  - 협업도구 : 
    - [Gitlab](https://cubenuri.tistory.com/265) : git , 이슈, 디플로이  
    - [Nexus](https://cubenuri.tistory.com/281) : 공용 아키타입, 라이브러리 , Docker Registry          
-   - [RedMine](https://cubenuri.tistory.com/349) : 이슈 트래킹 시스탬, gitlab , Mylyn 연동
+   - [RedMine](https://cubenuri.tistory.com/349) : 이슈 트래킹 시스, gitlab , Mylyn 연동
    - Gerrit : 코드 리뷰 시스템 
     
  -  개발 :
