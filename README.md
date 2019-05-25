@@ -35,8 +35,7 @@
    - Gerrit : 코드 리뷰 시스템 
     
  -  개발 :
-    - Gradle or Maven  boilerplate 프로젝트 생성방법
-    - 기본 패키지 구조 설명 
+    - [Spring 프로젝트 생성방법](https://cubenuri.tistory.com/257)
     - JUnit , Mockito 작성 방법
     - Code Coverage 활용
 
