@@ -45,6 +45,6 @@
    - 성능 테스트 : Stress 툴 활용 
     
 - 배포 단계 
-   - Docker : Docker Hub 연동
+   - [gitlab-ci : Docker : Docker Hub 연동 & 배포](https://cubenuri.tistory.com/340)
    - Kubernetes 활용 : 배포 전략 
    - 로깅 & 모니터링 도구 : 미정
